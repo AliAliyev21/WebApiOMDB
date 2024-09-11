@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P4nlXOSWXxrpi/g+vZJaWyaMGZIyVUs259cNHTEZmC8=",
+  "Source": "WebApiOMDB",
+  "BasePath": "_content/WebApiOMDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
